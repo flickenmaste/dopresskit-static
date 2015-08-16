@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- PROJECT PAGE -->
+
+<game>
+	<title>V-Bound</title>
+	<release-date>TBA</release-date>    
+	<press-can-request-copy>FALSE</press-can-request-copy>
+    <press-contact>press@superneko.com</press-contact>
+
+    <website>http://superneko.com</website>
+    
+    <socials>
+        <social>
+            <name>twitter</name>
+            <link>twitter.com/SuperNekoGames</link>
+        </social>
+        <social>
+            <name>facebook</name>
+            <link>facebook.com/SuperNekoGames</link>
+        </social>
+    </socials>
+
+	<description>
+    V-Bound is a multiplayer first person disk throwing game about knocking other people over the edge. Decapitate, dismember, freeze, or just plain push people off the ground and into the abyss to score your way to victory. Or, well, you could just wait for them to walk right off themselves.
+	</description>
+	
+	<history>
+	SuperNeko is comprised of experienced graduates from the Academy of Interactive Entertainment.
+	</history>
+
+	<features>
+		<feature>Decapitate, dismember, freeze, and push your enemies over the edge with disks.</feature>
+		<feature>Control powerups to keep any advantage in your hands.</feature>
+		<feature>Angle shots off of banked surfaces to rack up more points per kill.</feature>
+		<feature>Don't be limited to hopping on jump pads: use air strafing to get to different platforms!</feature>
+		<feature>Something to wrap up this 5-point feature list with a nice ring to it.</feature>
+	</features>
+	
+    <company>
+        <name>SuperNeko</name>
+        <website>superneko.com</website>
+        <contacts>
+            <contact>
+                <name>Point Person</name>
+                <mail>will@superneko.com</mail>
+            </contact>
+        </contacts>
+    </company>
+
+    <platforms>
+    </platforms>
+
+    <prices>
+    </prices>
+
+    <additionals>
+    </additionals>
+
+    <quotes>
+    </quotes>
+
+    <awards>
+    </awards>
+
+	<trailers>
+	</trailers>
+		
+	<credits>
+		<credit>
+			<person>Will Gilstrap</person>
+			<role>Business &amp; UI, SuperNeko</role>
+		</credit>
+		<credit>
+			<person>Terry Nguyen</person>
+            <website>terrehbyte.com</website>
+			<role>Game Programmer, terrehbyte</role>
+		</credit>
+		<credit>
+			<person>Michelle Duffy</person>
+			<role>Artist, Freelancer</role>
+		</credit>
+		<credit>
+			<person>Ian Rich</person>
+			<website>www.iancarnation.com</website>
+			<role>Technical Artist, Freelancer</role>
+		</credit>
+	</credits>
+
+    <contacts>
+        <contact>
+            <name>Inquiries</name>
+            <mail>will@superneko.com</mail>
+    </contact>
+    </contacts>
+</game>
