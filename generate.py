@@ -210,6 +210,9 @@ def do_compile(project_name, company_datas=None):
     global now_project
     now_project = project_name
 
+    print "\nStarting generation...\n=========================="
+    print "project: " + project_name
+
     # CLEAN XML FROM DASHES
     def undash(match):
         return match.group().replace("-", "_")
