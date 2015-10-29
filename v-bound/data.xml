@@ -41,8 +41,8 @@
         <website>superneko.com</website>
         <contacts>
             <contact>
-                <name>Point Person</name>
-                <mail>will@superneko.com</mail>
+                <name>Press Contact</name>
+                <mail>press@superneko.com</mail>
             </contact>
         </contacts>
     </company>
@@ -57,6 +57,18 @@
     </additionals>
 
     <quotes>
+        <quote>
+            <description>Played V-BOUND today @SeattleRetro today, it was a impressively fun. @SuperNekoGames made a fun game, that i found very enjoyable.</description>
+            <name>HAC</name>
+            <website>Twitter</website>
+            <link>https://twitter.com/H_A_C/status/645840301748187136</link>
+        </quote>
+        <quote>
+            <description>Aimee loved your game and enjoyed playing with one of you!</description>
+            <name>Josiane Grignon</name>
+            <website>Twitter</website>
+            <link>http://twitter.com/JosianeGrignon/status/638444482317283328</link>
+        </quote>
     </quotes>
 
     <awards>
@@ -68,7 +80,7 @@
 	<credits>
 		<credit>
 			<person>Will Gilstrap</person>
-			<role>Business &amp; UI, SuperNeko</role>
+			<role>Business &amp; Game Designer, SuperNeko</role>
 		</credit>
 		<credit>
 			<person>Terry Nguyen</person>
@@ -76,21 +88,21 @@
 			<role>Game Programmer, terrehbyte</role>
 		</credit>
 		<credit>
-			<person>Michelle Duffy</person>
+			<person>Michelle Baron</person>
             <website>http://www.blackfairypress.com/michellebaronrocks/</website>
 			<role>Artist, Freelancer</role>
 		</credit>
 		<credit>
 			<person>Ian Rich</person>
 			<website>www.iancarnation.com</website>
-			<role>Technical Artist, Freelancer</role>
+			<role>Technical Artist &amp; VFX Junkie, Freelancer</role>
 		</credit>
 	</credits>
 
     <contacts>
         <contact>
             <name>Inquiries</name>
-            <mail>will@superneko.com</mail>
+            <mail>press@superneko.com</mail>
     </contact>
     </contacts>
 </game>
